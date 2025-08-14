@@ -209,4 +209,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ⚡ by the SimuVerse team** | **Powered by Claude Sonnet 4**
+**Built with ⚡ by Abdulrahman Adisa Amuda**
